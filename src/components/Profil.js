@@ -1,9 +1,9 @@
 import React from "react";
-function About(){
+function Profil(){
     return(
         <>
-        <h1>About</h1>
+            <h1>Profile</h1>
         </>
     )
 }
-export default About
+export default Profil

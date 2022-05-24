@@ -1,9 +1,8 @@
 import React from "react";
-function About(){
+export default function Jobs(){
     return(
         <>
-        <h1>About</h1>
+            <h1>Jobs examples</h1>
         </>
     )
 }
-export default About
